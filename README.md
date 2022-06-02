@@ -1,5 +1,5 @@
 <b> TUGAS 9 dan 10 
-<p> <b> Nama : Diana Dwi Rahayu
+<p> Nama : Diana Dwi Rahayu
 <p> NIM : 312010055
 <p> Kelas : TI.20.D1 
 <p> Langkah-langkah Praktikum </b>
